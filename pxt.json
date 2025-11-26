@@ -1,5 +1,5 @@
 {
-    "name": "pxt-my-gaget",
+    "name": "chase me",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
